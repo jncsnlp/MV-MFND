@@ -54,7 +54,5 @@ We refer to the code of LEMMA. Thanks for their great contributions!
   publisher={IEEE}
 }
 ```
-Contact: luhengyang@jiangnan.edu.cn
-
-If you encounter any difficulties or problems while using our dataset, please feel free to contact us. If you find our paper or code helpful, please give us a like. ❤️
+If you find our paper or code helpful, please give us a like. ❤️
 
