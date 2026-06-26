@@ -18,6 +18,10 @@ Seeing in requirement.txt
 For Qwen, you should cd Qwen2-VL and use `pip install -r requirement.txt` to install the required packages.
 For LLaVa, you should cd llava and use `pip install -r requirement.txt` to install the required packages.
 
+## Download Datasets
+You can get Fakeddit and twitter datasets in https://github.com/fan19-hub/LEMMA/tree/main
+You can get MR2-en dataset in https://github.com/THU-BPM/MR2
+
  ## Usage
 
 baseline LEMMA:
