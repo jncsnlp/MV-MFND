@@ -17,6 +17,7 @@ Seeing in requirement.txt
 
 - For Qwen, you should cd Qwen2-VL and use `pip install -r requirement.txt` to install the required packages.
 - For LLaVa, you should cd llava and use `pip install -r requirement.txt` to install the required packages.
+- You can get sentence-transformers model in https://github.com/huggingface/sentence-transformers
 
 ## Download Datasets
 - You can get Fakeddit and twitter datasets in https://github.com/fan19-hub/LEMMA/tree/main
